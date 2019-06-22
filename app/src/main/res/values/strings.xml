@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCore_AlarmManager</string>
+    <string name="alarmON">Alarm ON</string>
+    <string name="alarmOFF">Alarm OFF</string>
+    <string name="alarm_off_toast">Alarm is Off</string>
+    <string name="alarm_on_toast">Alarm is On</string>
+</resources>
